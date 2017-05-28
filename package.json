@@ -1,0 +1,20 @@
+{
+  "name"    : "convert-music-app",
+  "version" : "0.1.0",
+  "description": "Power ffmpeg through using a Electron GUI",
+  "main"    : "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/gordody/convert-music-app",
+  "keywords": [
+    "Electron",
+    "cpnvert",
+    "ffmpeg",
+    "music",
+    "convert"
+  ],
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
